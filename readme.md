@@ -7,16 +7,16 @@ All the work done by me as part of IBM's CongnitiveClass "Applied Data Science w
 
 ## Python packages used
 
-1- Scientific Computing Libraries:
+1 - Scientific Computing Libraries:
 - Pandas (data structures & tools)
 - Numpy (Arrays & matrices)
 - Scipy (integrals, solving differential equations, optimization)
 
-2- Visualization Libraries:
+2 - Visualization Libraries:
 - Matplotlib (plots & graphs)
 - Seaborn (heat plots, time series, violin plots)
 
-3- Algorithmic Libraries:
+3 - Algorithmic Libraries:
 - Scikit-lean (Machine learning: regression, classifcation...)
 - Statsmodels (data exploration, statistical models & statistical tests) 
 
