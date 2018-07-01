@@ -1,1 +1,4 @@
-how to analyze data in Python using multi-dimensional arrays in numpy, manipulate DataFrames in pandas, use SciPy library of mathematical routines, and perform machine learning using scikit-learn! You will learn how to perform data analytics in Python using these popular Python libraries and you will do it using hands-on labs using real Python tools like Jupyter notebook in JupyterLab.
+- How to analyze data in Python using multi-dimensional arrays in numpy, 
+- Manipulate DataFrames in pandas
+- Use SciPy library of mathematical routines
+- Perform machine learning using scikit-learn
