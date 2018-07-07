@@ -3,7 +3,7 @@ All the work done by me as part of IBM's CongnitiveClass "Applied Data Science w
 **Certificates**
 - Python 101 for Data Science https://courses.cognitiveclass.ai/certificates/user/688744/course/course-v1:Cognitiveclass+PY0101EN+v2
 - Data Analysis with Python   https://courses.cognitiveclass.ai/certificates/user/688744/course/course-v1:CognitiveClass+DA0101EN+2017
-- Data Visualization with Python In Progress
+- Data Visualization with Python https://courses.cognitiveclass.ai/certificates/adce9136dbd14ef09429dea420d6de4b
 
 ## Python packages used
 
